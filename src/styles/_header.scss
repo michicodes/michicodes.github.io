@@ -22,6 +22,10 @@
   left: 50%;
   margin: 0 auto;
   -webkit-transform: translate(-50%, -50%);
+  -webkit-user-select: none; /* Safari */        
+  -moz-user-select: none; /* Firefox */
+  -ms-user-select: none; /* IE10+/Edge */
+  user-select: none; /* Standard */
   transform: translate(-50%, -50%);
   .site-title {
     font-size: 50px;
