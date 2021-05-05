@@ -2,7 +2,7 @@
 title: Hi.
 description: I am Michael. I am a Software Engineer.
 # baseurl: "/particle" # the subpath of your site, e.g. /blog
-url: "https://mweilb.de" # the base hostname & protocol for your site e.g. http://willianjusten.com.br
+url: "https://michi.codes" # the base hostname & protocol for your site e.g. http://willianjusten.com.br
 
 # User settings
 username: Michael Weilbächer
@@ -15,7 +15,7 @@ gplus_username:  lorem_ipsum
 
 # Google-analytics
 google-analytics:
-  id: "G-QRL3RNGC60"
+  id: "UA-182369217-1"
   
 
 exclude: ['package.json', 'src' , 'node_modules']
