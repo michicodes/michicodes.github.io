@@ -16,7 +16,7 @@
 .header {
   z-index: 1;
   text-align: center;
-  color:#FFF;
+  color:#EBE1CC;
   position: absolute;
   top: 50%;
   left: 50%;
@@ -39,7 +39,7 @@
     font-size: 50px;
     display: block;
     line-height: 1;
-    color: #FFF;
+    color: #EBE1CC;
     @media only screen and (min-width:$cut){
       margin: 0;
       font-size: 80px;
@@ -49,7 +49,7 @@
     font-size: 20px;
     display: block;
     line-height: 1;
-    color: #FFF;
+    color: #EBE1CC;
     margin-top: 10px;
     @media only screen and (min-width:$cut){
       font-size: 40px;
@@ -60,7 +60,7 @@
 .header-links {
   margin: 10px;
   .link {
-    color: #FFF;
+    color: #EBE1CC;
     text-decoration: none;
     font-size: 15px;
     margin: 10px;
@@ -77,22 +77,22 @@
   flex-wrap: wrap;
   .icon {
     text-align: center;
-    color: #FFF;
+    color: #EBE1CC;
     width: 20px;
     height: 20px;
     font-size: 20px;
     padding: 10px;
     margin: 5px;
     border-radius: 50%;
-    border: 2px solid #FFF;
+    border: 2px solid #EBE1CC;
     transition: all .7s;
     &:hover {
       color: $main;
-      background: #FFF;
+      background: #EBE1CC;
     }
     &:active {
       color: $main;
-      background: #FFF;
+      background: #EBE1CC;
     }
     @media only screen and (min-width:$cut) {
       width: 35px;
@@ -103,7 +103,7 @@
 }
 
 .down {
-  color: #FFF;
+  color: #EBE1CC;
   position: absolute;
   bottom: 25px;
   width: 100%;
@@ -122,7 +122,7 @@
       transform: translate(-50%, -50%);
       width: 100px;
       height: 100px;
-      fill: #fff;
+      fill: #EBE1CC;
       -webkit-animation: pulse 1.3s infinite;
       animation: pulse 1.3s infinite;
       &:hover {
