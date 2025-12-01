@@ -7,15 +7,10 @@ url: "https://michi.codes" # the base hostname & protocol for your site e.g. htt
 # User settings
 username: Michael Weilbächer
 user_description: I am Michael. I am a Software Engineer.
-user_title: Software Engineer
-email: mail@mweilb.de
+user_title: Lead Software Engineer/Architect
+email: contact@michi.codes
 twitter_username: lorem_ipsum
 github_username:  lorem_ipsum
 gplus_username:  lorem_ipsum
-
-# Google-analytics
-google-analytics:
-  id: "UA-182369217-1"
-  
 
 exclude: ['package.json', 'src' , 'node_modules']
